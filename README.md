@@ -1,2 +1,2 @@
 # odin-recipes
-This will be an introduction to writing code & practicing Git commits by creating a recipe page. There should be images & links to navigate the website efficiently.
+# This will be a lesson in writing code & using Git commits by building a website for recipes. There will be images as well as links in order to navigate between the different recipes.
